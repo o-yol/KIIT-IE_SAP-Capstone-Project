@@ -1,0 +1,3 @@
+Invoice_Number,Invoice_Date,Vendor_Code,Vendor_Name,PO_Reference,GR_Reference,Invoice_Amount_INR,Tax_Amount_INR,Total_Amount_INR,Three_Way_Match,Accounting_Document,Payment_Document,Payment_Date,Payment_Method,Payment_Status
+INV-SC-20260418,2026-04-18,V-1001,Sigma Components Ltd.,4500000085,5000000034,2400000,432000,2832000,Passed,1900000021,1500000009,2026-05-18,NEFT,Cleared
+INV-PE-20260419,2026-04-19,V-1002,Phoenix Electronics Ltd.,4500000086,5000000035,234000,42120,276120,Partial - GR mismatch,1900000022,,,,Pending Review

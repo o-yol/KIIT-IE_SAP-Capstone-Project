@@ -1,0 +1,6 @@
+PO_Number,PO_Date,Vendor_Code,Vendor_Name,Material_Number,Material_Description,Quantity,Unit,Unit_Price_INR,Total_Value_INR,Plant,Storage_Location,Delivery_Date,Payment_Terms,PO_Status
+4500000085,2026-04-05,V-1001,Sigma Components Ltd.,MAT-5001,Electronic Control Module ECM-500,500,EA,4800,2400000,TN01,SL01,2026-04-18,Net 30,Completed
+4500000086,2026-04-06,V-1002,Phoenix Electronics Ltd.,MAT-5002,Printed Circuit Board PCB-200,200,EA,1200,240000,TN01,SL01,2026-04-20,Net 30,Open
+4500000087,2026-04-07,V-1003,Bharath Wires Pvt Ltd,MAT-5003,Copper Wire Coil 5mm,100,KG,850,85000,TN01,SL02,2026-04-22,Net 15,Open
+4500000088,2026-04-08,V-1001,Sigma Components Ltd.,MAT-5004,Voltage Regulator VR-100,1000,EA,320,320000,TN01,SL01,2026-04-25,Net 30,Open
+4500000089,2026-04-09,V-1004,IndoTech Supplies,MAT-5005,Capacitor 100uF,5000,EA,45,225000,TN01,SL01,2026-04-28,Net 15,Open

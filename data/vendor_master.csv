@@ -1,0 +1,5 @@
+Vendor_Code,Vendor_Name,City,State,Country,GST_Number,Payment_Terms,Currency,Bank_Name,IFSC_Code,Account_Number,Contact_Person,Email,Phone,Vendor_Status
+V-1001,Sigma Components Ltd.,Hyderabad,Telangana,India,36AABCS1234F1ZX,Net 30,INR,HDFC Bank,HDFC0001234,50200012345678,Rajesh Kumar,rajesh@sigmacomp.com,9876543210,Active
+V-1002,Phoenix Electronics Ltd.,Pune,Maharashtra,India,27AABCP5678G1ZY,Net 30,INR,ICICI Bank,ICIC0002345,012345678901,Sneha Patil,sneha@phoenixelec.com,9876501234,Active
+V-1003,Bharath Wires Pvt Ltd,Chennai,Tamil Nadu,India,33AABCB9012H1ZZ,Net 15,INR,SBI,SBIN0003456,32012345678,Venkat Raman,venkat@bharathwires.com,9876509876,Active
+V-1004,IndoTech Supplies,Bengaluru,Karnataka,India,29AABCI3456I1ZW,Net 15,INR,Axis Bank,UTIB0004567,917010012345,Priya Sharma,priya@indotech.com,9876512345,Active

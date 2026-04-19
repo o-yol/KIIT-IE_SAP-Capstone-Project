@@ -1,0 +1,3 @@
+GR_Document,GR_Date,PO_Reference,Vendor_Code,Vendor_Name,Material_Number,Material_Description,Received_Quantity,Unit,Movement_Type,Plant,Storage_Location,Batch_Number,Quality_Check,GR_Status
+5000000034,2026-04-18,4500000085,V-1001,Sigma Components Ltd.,MAT-5001,Electronic Control Module ECM-500,500,EA,101,TN01,SL01,B-2026-04,Passed,Posted
+5000000035,2026-04-19,4500000086,V-1002,Phoenix Electronics Ltd.,MAT-5002,Printed Circuit Board PCB-200,195,EA,101,TN01,SL01,B-2026-04B,Partial - 5 units rejected,Partial
